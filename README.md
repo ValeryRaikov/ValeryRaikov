@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on mastering Python at Softuni<br>🌱 I’m currently learning programming and software engineering at TU-Sofia<br>⚡ Fun fact -> I hate wasting my time on useless activities<br><br>✌My personality:
+🔭 I’m currently working on mastering Python at Softuni<br>🌱 I’m currently learning programming and software engineering at TU-Sofia<br>⚡ Fun fact -> I hate wasting my time on useless activities<br><br>✌<b>My personality:
 
 
 ## 🌐 Socials:
