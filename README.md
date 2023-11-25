@@ -7,7 +7,8 @@
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValeryRaikov&bg_color=000000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+# ⌨ Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValeryRaikov&bg_color=000000&font=white)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
