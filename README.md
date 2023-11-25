@@ -2,10 +2,10 @@
 🔭 I’m currently working on mastering Python at Softuni<br>🌱 I’m currently learning programming and software engineering at TU-Sofia<br>⚡ Fun fact -> I hate wasting my time on useless activities<br><br>✌ <b>My personality:</b><br>✔Self-improvement⏳<br>✔Creativity🔑, Passion❤, Confidence👁‍🗨<br>✔Keen on most kind of sports -> practicing skiing⛷, volleyball🏐, swimming🏊‍♀️, fitness💪<br>✔In love with fishing🎣<br>✔A game of chess♟ or cards♠ is always welcome<br>✔Nature🌅, travelling🛤, friends😉
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/val_raikov) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/valery-raikov-6b5326253) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/val_raikov)(#) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/valery-raikov-6b5326253) 
 
 ## 💻 Tech Stack:
-[![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)](#) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)](#) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)](#) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)](#) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)](#) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)](#) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)](#)
 
 
 ## ⌨ Languages
