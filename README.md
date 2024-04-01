@@ -1,20 +1,84 @@
-# 💫 About Me:
-🔭 I’m currently working on mastering Python at Softuni<br>🌱 I’m currently learning programming and software engineering at TU-Sofia<br>⚡ Fun fact -> I hate wasting my time on useless activities<br><br>✌ <b>My personality:</b><br>✔Self-improvement⏳<br>✔Creativity🔑, Passion❤, Confidence👁‍🗨<br>✔Keen on most kind of sports -> practicing skiing⛷, volleyball🏐, swimming🏊‍♀️, fitness💪<br>✔In love with fishing🎣<br>✔A game of chess♟ or cards♠ is always welcome<br>✔Nature🌅, travelling🛤, friends😉
+<h1 align="center">🖐Hi all! I am Valery Raikov</h1>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/val_raikov)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/valery-raikov-6b5326253) 
+###
 
-## 💻 Tech Stack:
-[![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)](#) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)](#) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)](#) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)](#)
+<h2 align="left">💫About me:</h2>
 
+###
 
-## ⌨ Languages:
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ValeryRaikov&langs_count=5&theme=tokyonight)]()
+<h4 align="left">✔ Currently studying Computer and Software Engineering at <br>Technical University of Sofia combined with Software University<br>✔ Working on some self projects using different technologies<br>✔ Interested in programming and ready for new challenges<br><br>✌ My personality:<br>✔ Self-improvement⏳<br>✔ Creativity🔑, Passion❤ and Confidence👁‍🗨<br>✔ Keen on most kind of sports -> skiing⛷, volleyball🏐, swimming🏊‍♀️, fitness💪<br>✔ In love with fishing🎣<br>✔ A game of chess♟ or cards♠ is always welcome<br>✔ Nature🌅, travelling🛤, friends😉<br>❌ Laziness</h4>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+###
 
----
-[![](https://visitcount.itsvg.in/api?id=ValeryRaikov&icon=0&color=0)](https://visitcount.itsvg.in)
+<h2 align="left">〽 Connect with me:</h2>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<div align="left">
+  <a href="https://www.facebook.com/profile.php?id=100008440088832&locale=bg_BG" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="53" height="35" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/val_raikov/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="53" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/valery-raikov-6b5326253/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="53" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="left">⌨ Tech Stack:</h2>
+
+###
+
+<img align="right" height="129" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDAwMWg3bWxnZW1hNm11aXp5YmZkbnVmcHhycG80NnlqNW8xemFvdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LaVp0AyqR5bGsC5Cbm/giphy.gif"  />
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="c logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="45" alt="nodejs logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="postgresql logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="docker logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="45" alt="intellij logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="45" alt="pycharm logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="45" alt="windows8 logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ValeryRaikov&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ValeryRaikov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="170" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ValeryRaikov/ValeryRaikov/output/snake.svg" alt="Snake animation" />
+
+###
