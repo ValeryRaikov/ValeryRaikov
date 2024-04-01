@@ -6,7 +6,15 @@
 
 ###
 
-<h4 align="left">✔ Currently studying Computer and Software Engineering at Technical University of Sofia combined with Software University<br>✔ Working on some self projects using different technologies<br>✔ Interested in programming and ready for new challenges<br><br>✌ My personality:<br>✔ Self-improvement⏳<br>✔ Creativity🔑, Passion❤ and Confidence👁‍🗨<br>✔ Keen on most kind of sports -> skiing⛷, volleyball🏐, swimming🏊‍♀️, fitness💪<br>✔ In love with fishing🎣<br>✔ A game of chess♟ or cards♠ is always welcome<br>✔ Nature🌅, travelling🛤, friends😉<br>❌ Laziness</h4>
+<h4 align="left">✔ Currently studying Computer and Software Engineering at Technical University of Sofia combined with Software University<br>✔ Working on some self projects using different technologies<br>✔ Interested in programming and ready for new challenges
+
+###
+
+<h2 align="left">✌ My personality:</h2>
+
+###
+
+✔ Self-improvement⏳<br>✔ Creativity🔑, Passion❤ and Confidence👁‍🗨<br>✔ Keen on most kind of sports -> skiing⛷, volleyball🏐, swimming🏊‍♀️, fitness💪<br>✔ In love with fishing🎣<br>✔ A game of chess♟ or cards♠ is always welcome<br>✔ Nature🌅, travelling🛤, friends😉<br>❌ Laziness</h4>
 
 ###
 
