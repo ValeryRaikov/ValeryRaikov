@@ -68,6 +68,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="45" alt="windows8 logo"  />
 </div>
 
+<br>
+<br>
 ###
 
 <div align="center">
