@@ -32,7 +32,7 @@
 
 ###
 
-<img align="right" height="115" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDAwMWg3bWxnZW1hNm11aXp5YmZkbnVmcHhycG80NnlqNW8xemFvdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LaVp0AyqR5bGsC5Cbm/giphy.gif"  />
+<img align="right" height="130" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDAwMWg3bWxnZW1hNm11aXp5YmZkbnVmcHhycG80NnlqNW8xemFvdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LaVp0AyqR5bGsC5Cbm/giphy.gif"  />
 
 ###
 
@@ -68,9 +68,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="45" alt="windows8 logo"  />
 </div>
 
-<br>
-<br>
 ###
+
+<br>
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ValeryRaikov&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="170" alt="stats graph"  />
