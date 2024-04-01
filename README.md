@@ -87,9 +87,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ValeryRaikov/ValeryRaikov/output/snake.svg" alt="Snake animation" />
-
-###
