@@ -37,6 +37,8 @@
   </a>
 </div>
 
+<br>
+
 ###
 
 <h2 align="left">⌨ Tech Stack:</h2>
@@ -97,6 +99,8 @@
 
 ###
 
+<div align="center">
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ValeryRaikov&theme=onedark)
+</div>
 
 ###
