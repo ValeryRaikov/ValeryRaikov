@@ -97,6 +97,6 @@
 
 ###
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ValeryRaikov-ma&theme=onedark)]
+[https://github-profile-trophy.vercel.app/?username=ValeryRaikov](https://github-profile-trophy.vercel.app/?username=ValeryRaikov&theme=onedark)
 
 ###
