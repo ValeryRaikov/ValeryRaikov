@@ -1,5 +1,7 @@
 <h1 align="left">🖐Hi all! I am Valery Raikov</h1>
 
+<br>
+
 ###
 
 <h2 align="left">💫About me:</h2>
@@ -87,7 +89,6 @@
 
 ###
 
-<br>
 <br>
 
 <h2 align="left">🏆 Stats and Achievments</h2>
