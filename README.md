@@ -99,8 +99,6 @@
 
 ###
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ValeryRaikov&theme=onedark" alt="GitHub Trophies" />
-</div>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ValeryRaikov&theme=onedark)
 
 ###
