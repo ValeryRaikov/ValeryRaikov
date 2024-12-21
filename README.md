@@ -32,6 +32,9 @@
   <a href="https://www.linkedin.com/in/valery-raikov-6b5326253/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="53" height="35" alt="linkedin logo"  />
   </a>
+  <a href="mailto:valeryraikov@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="53" height="35" alt="gmail logo" />
+  </a>
 </div>
 
 ###
