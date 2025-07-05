@@ -75,6 +75,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ValeryRaikov&show_icons=true&theme=dracula&hide_border=false" height="170" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=ValeryRaikov&theme=dracula&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ValeryRaikov&layout=compact&langs_count=8&theme=dracula&hide_border=false" height="170" alt="Top Languages" />
 </p>
 
@@ -85,4 +89,4 @@
 ---
 
 
-Feel free to reach out or check my pinned repositories for more!
+<p align="center"><strong>Feel free to reach out or check my pinned repositories for more!</strong></p>
