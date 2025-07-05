@@ -1,28 +1,38 @@
-<h1 align="left">🖐Hi all! I am Valery Raikov</h1>
+<h1 align="center">🖐Hi all! I am Valery Raikov</h1>
 
 ###
 
-<h2 align="left">💫About me:</h2>
+<h2 align="center">💫About me:</h2>
 
 ###
 
-<h4 align="left">✔ Currently studying Computer and Software Engineering at Technical University of Sofia combined with Software University<br>✔ Working on some self projects using different technologies<br>✔ Interested in programming and ready for new challenges
+<h4 align="left">
+  ✔ Currently studying Computer and Software Engineering at Technical University of Sofia combined with Software University<br>
+  ✔ Working on some self projects using different technologies<br>
+  ✔ Interested in programming and ready for new challenges
+</h4>
 
 ###
 
-<h2 align="left">✌ My personality:</h2>
+<h2 align="center">✌ My personality:</h2>
 
 ###
 
-✔ Self-improvement⏳<br>✔ Creativity🔑, Passion❤ and Confidence👁‍🗨<br>✔ Keen on most kind of sports -> skiing⛷, volleyball🏐, swimming🏊‍♀️, fitness💪<br>✔ In love with fishing🎣<br>✔ A game of chess♟ or cards♠ is always welcome<br>✔ Nature🌅, travelling🛤, friends😉<br>❌ Laziness</h4>
+✔ Self-improvement⏳<br>
+✔ Creativity🔑, Passion❤ and Confidence👁‍🗨<br>
+✔ Keen on most kind of sports -> skiing⛷, volleyball🏐, swimming🏊‍♀️, fitness💪<br>
+✔ In love with fishing🎣<br>
+✔ A game of chess♟ or cards♠ is always welcome<br>
+✔ Nature🌅, travelling🛤, friends😉<br>
+❌ Laziness
 
 ###
 
-<h2 align="left">〽 Connect with me:</h2>
+<h2 align="center">〽 Connect with me:</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.facebook.com/profile.php?id=100008440088832&locale=bg_BG" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" style="height: 60px; width: 40px;" alt="facebook logo"  />
   </a>&nbsp;&nbsp;
@@ -41,7 +51,7 @@
 
 ###
 
-<h2 align="left">⌨ Tech Stack:</h2>
+<h2 align="ceneter">⌨ Tech Stack:</h2>
 
 ###
 
@@ -75,7 +85,8 @@
 
 <br>
 
-<h2 align="left">🏆 Stats and Achievments</h2>
+<h2 align="center">🏆 Stats and Achievments</h2>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ValeryRaikov&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="170" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ValeryRaikov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="170" alt="languages graph"  />
@@ -83,6 +94,6 @@
 
 ###
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ValeryRaikov&theme=onedark)
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ValeryRaikov&theme=onedark)
 
 ###
